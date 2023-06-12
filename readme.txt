@@ -103,6 +103,3 @@ The following additional use cases have been implemented in the backend part of 
 
 Please note that the above use cases are implemented in the backend, and the frontend is a work in progress.
 
----
-
-Feel free to customize the README further based on your project's specific requirements and implementation details.
